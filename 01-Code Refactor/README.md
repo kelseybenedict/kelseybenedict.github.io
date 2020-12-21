@@ -8,4 +8,4 @@ A modified web page with added alt text for every image & link, a simplified sty
 
 # Link to deployed application
 
-![Code Refactor](https://kelseybenedict.github.io/01-Code%20Refactor/Develop/index.html)
+[Code Refactor](https://kelseybenedict.github.io/01-Code%20Refactor/Develop/index.html)
