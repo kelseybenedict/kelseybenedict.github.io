@@ -2,7 +2,9 @@ body{
     background-image: url(../images/background.jpg);
     background-size: cover;
 }
-
+#project2{
+    padding-bottom: 82px;
+}
 .footer {
     background-color: #333a41;
     position: fixed;
@@ -10,4 +12,7 @@ body{
     bottom: 0;
     width: 100%;
     text-align: center;
+  }
+  #email{
+    color: white;
   }
