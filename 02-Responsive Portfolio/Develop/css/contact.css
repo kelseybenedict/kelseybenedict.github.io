@@ -1,16 +1,19 @@
-img{
-width: 100%;
-height: auto;
-max-width: 625px;
-margin-left: auto;
-margin-right: auto;
-display: block;
+body{
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
 }
+
 .footer {
-    background-color:white;
+    background-color: #333a41;
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     text-align: center;
-  }
+}
+#email{
+    color: white;
+}

@@ -1,6 +1,9 @@
 body{
     background-image: url(../images/background.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
 }
 #project2{
     padding-bottom: 82px;
@@ -12,7 +15,7 @@ body{
     bottom: 0;
     width: 100%;
     text-align: center;
-  }
-  #email{
+}
+#email{
     color: white;
-  }
+}
