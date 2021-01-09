@@ -4,7 +4,9 @@ Responsive website that includes an about me page, a portfolio page, and a conta
 
 
 ## Preview
-![alt text]()
+![Image of about me page](./Develop/images/aboutme.png)
+![Image of portfolio page](./Develop/images/portfolio.png)
+![Image of contact page](./Develop/images/contact.png)
 
 
 
