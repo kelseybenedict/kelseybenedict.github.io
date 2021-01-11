@@ -8,6 +8,10 @@ body{
 #project2{
     padding-bottom: 82px;
 }
+#bottom-row{
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+  }
 .footer {
     background-color: #333a41;
     position: fixed;
